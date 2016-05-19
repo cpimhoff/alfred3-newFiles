@@ -18,11 +18,11 @@ _New Files_ supports modifying the behavior of the workflow in simple ways.
 ### Options
 Certain options can be configured in the **Workflow Enviromental Variables**:
 
-- openNewFiles = 'default'. New files will automatically be opened in the default application after being created.
-- openNewFiles = 'none'. New files will not be automatically opened.
-- openNewFolders = 'finder'. New folders will automatically be opened in Finder.
-- openNewFolders = 'terminal'. New folders will automatically be opened in a new Terminal Window.
-- openNewFolders = 'none'. New folders will not be automatically opened.
+- **openNewFiles = 'default'** New files will automatically be opened in the default application after being created.
+- **openNewFiles = 'none'** New files will not be automatically opened.
+- **openNewFolders = 'finder'** New folders will automatically be opened in Finder.
+- **openNewFolders = 'terminal'** New folders will automatically be opened in a new Terminal Window.
+- **openNewFolders = 'none'** New folders will not be automatically opened.
 
 ### Editing Defaults Lists
 To edit the defaults lists of File Type and Location, configure the **List Filter** nodes in the workflow tree.
